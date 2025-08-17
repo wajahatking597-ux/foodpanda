@@ -230,7 +230,6 @@ a{  text-decoration: none;
 
         /* -- footer-- */
 
-        
 .footer{
     height: 300px;
     background: #000;
@@ -284,6 +283,7 @@ a{  text-decoration: none;
 .footer-text2 a{ color: white;}
 
 .footer-social{ padding-left: 100px;
+               /* padding: 10px; */
                color: white;}
 
 .footer-social a{ color: white;

@@ -96,7 +96,7 @@ a{  text-decoration: none;
  
 .slider{
         height: 450px;
-         background-image: url(../images/fd-slider1.jpg);
+         background-image: url(./images/fd-slider1.jpg);
          background-position:  center center;
          background-repeat: no-repeat;
          background-size: 100% 100%;
@@ -107,10 +107,10 @@ a{  text-decoration: none;
  } 
          
 @keyframes wajahat{
-                  0%{background-image: url(../images/fd-slider1.jpg);}
-                  35%{background-image:url(../images/fd-slider2.webp);}
-                  75%{background-image: url(../images/fd-slider3.webp);}
-                  100%{ background-image: url(../images/fd-slider1.jpg);}
+                  0%{background-image: url(./images/fd-slider1.jpg);}
+                  35%{background-image:url(./images/fd-slider2.webp);}
+                  75%{background-image: url(./images/fd-slider3.webp);}
+                  100%{ background-image: url(./images/fd-slider1.jpg);}
 }
 
          /* --section #02-- */
